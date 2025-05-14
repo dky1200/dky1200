@@ -4,7 +4,7 @@
 
 🌱 I’m skilled in Power BI, SQL, Python and Advance Excel
 
-📘 I have done four virtual internships in companies like AtliQ Technologies,  Tata 
+📘 I have done three virtual internships in companies like AtliQ Technologies,  Tata Group and Quantium
 
 💞️ I’m looking to collaborate on full time data analyst/business analyst job roles
 
